@@ -2,6 +2,7 @@ import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
 // simple comment
+// simple comment #1
 
 function App() {
   return (
